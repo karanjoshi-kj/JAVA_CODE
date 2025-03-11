@@ -1,3 +1,5 @@
+ //cube of the number
+ 
  public class cube {
     public static void main(String args[]){   
         int x = 10;
