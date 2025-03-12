@@ -1,3 +1,5 @@
+// JAGGED ARRAY --> IT IS A 2D ARRAY WHERE EACH AND EVERY ROW CAN HAVE DIFFRENT SIZE OF COLUMNS
+
 public class jaggedarray {
     public static void main(String[] args){
         int [][] jaggedarray = new int[3][];
