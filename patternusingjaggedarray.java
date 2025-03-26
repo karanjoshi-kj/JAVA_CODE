@@ -7,7 +7,7 @@ public class patternusingjaggedarray {
             pattern[i] = new char[i + 1];  
 
             for (int j = 0; j <= i; j++) {
-                pattern[i][j] = '*';  // yha par single quotes ka use isliye kiya hai kyoki JAVA main CHAR value single character hotii hai aur usee single quotes mai store krna pdata hai
+                pattern[i][j] = '*';  // yha par single quotes ka use isliye kiya hai kysoki JAVA main CHAR value single character hotii hai aur usee single quotes mai store krna pdata hai
             }
         }
 
