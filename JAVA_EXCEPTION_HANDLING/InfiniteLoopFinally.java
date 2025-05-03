@@ -1,7 +1,7 @@
 //Infinite Loop Finally block with no deadlock.....::. 
 
 
-package EXCEPTION_HANDLING;
+package JAVA_EXCEPTION_HANDLING;
 
 public class InfiniteLoopFinally {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package EXCEPTION_HANDLING;
+package JAVA_EXCEPTION_HANDLING;
 
     class MyCustomException extends Exception{
         public String getmessage(){

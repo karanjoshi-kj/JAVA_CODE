@@ -1,6 +1,6 @@
 //INFINITE LOOP IN TRY BLOCK 
 
-package EXCEPTION_HANDLING;
+package JAVA_EXCEPTION_HANDLING;
 
 public class InfiniteLoopInTry {
     public static void main(String[] args) {

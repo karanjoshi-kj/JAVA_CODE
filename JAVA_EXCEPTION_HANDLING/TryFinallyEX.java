@@ -1,7 +1,7 @@
 //..................:......:.BUT IN THIS CASE IT CANNOT HANDLE THE EXCEPTION...::::::..............
 
 
-package EXCEPTION_HANDLING;
+package JAVA_EXCEPTION_HANDLING;
 
 public class TryFinallyEX {
     public static void main(String[] args) {

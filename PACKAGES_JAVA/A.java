@@ -1,0 +1,11 @@
+/*WAP IN  JAVA TO MAKE A PACKAGE AND MAKE MINIMUM OF 3 CLASSES OF DIFFERENT FILES ACCESS THAT CLASS OUTSIDE
+ * THE PACKAGE IN SOME OTHER PACKAGE
+ */
+
+package PACKAGES_JAVA;
+
+public class A {
+    public void show() {
+        System.out.println("CLASS A METHOD");
+    }
+}

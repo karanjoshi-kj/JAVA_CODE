@@ -5,7 +5,7 @@
  * DESCRIPTION
  */
 
-package EXCEPTION_HANDLING;
+package JAVA_EXCEPTION_HANDLING;
 
 public class toString {
     public static void main(String[] args) {

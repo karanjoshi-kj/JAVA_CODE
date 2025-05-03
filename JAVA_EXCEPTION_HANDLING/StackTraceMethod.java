@@ -6,7 +6,7 @@
  */
 
 
-package EXCEPTION_HANDLING;
+package JAVA_EXCEPTION_HANDLING;
 
 public class StackTraceMethod {
     public static void main(String[] args) {

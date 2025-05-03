@@ -1,4 +1,4 @@
-package EXCEPTION_HANDLING;
+package JAVA_EXCEPTION_HANDLING;
 
 public class TryCatchInAIRTHEXC {
     public static void main(String[] args) {

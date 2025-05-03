@@ -1,4 +1,4 @@
-package EXCEPTION_HANDLING;
+package JAVA_EXCEPTION_HANDLING;
 
 class MyException extends Exception { // MyException IS USER DEFINED EXCEPTION
     MyException(String message) { // CONSTRUCTOR
